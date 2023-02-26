@@ -1,2 +1,2 @@
 # battleship-game
-My versiob of Battle-Ship game.
+My version of Battle-Ship game.
