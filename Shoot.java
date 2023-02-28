@@ -1,3 +1,4 @@
+//This class is used to shoot down the enemy troops!
 package battleship;
 
 import java.util.Scanner;
