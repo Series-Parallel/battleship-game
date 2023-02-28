@@ -1,8 +1,9 @@
+//This class is used to define all the variables used in the project.
 package battleship;
 
 import java.io.IOException;
 
-public class AbstractClass {
+public class abstract AbstractClass {
 
     static Fog fogField1 = new Fog();
     static Field field1 = new Field();
