@@ -1,3 +1,4 @@
+//This class prints the player's field and places ships on the field.
 package battleship;
 
 import java.util.Arrays;
