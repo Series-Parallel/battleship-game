@@ -1,3 +1,4 @@
+//This class places the fog on the field which makes ships disappear, so that enemy cant see the ally ships.
 package battleship;
 
 import java.util.Arrays;
