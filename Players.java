@@ -1,3 +1,4 @@
+//This class has all the player info and when and how the player can place ships or shoot down enemy's troop!
 package battleship;
 
 public class Players extends AbstractClass {
