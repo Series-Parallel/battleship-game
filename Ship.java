@@ -1,3 +1,4 @@
+//This class contains all the details regarding different types of ships and submarines.
 package battleship;
 
 public enum Ship {
